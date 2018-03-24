@@ -1,6 +1,8 @@
 # Study
 
 
+http://matteomanferdini.com/blog/
+
 http://matteomanferdini.com/the-ultimate-course-to-making-professional-ios-apps-lesson-1-how-the-mvc-pattern-guides-the-structure-of-professionally-developed-ios-apps/
 
 http://matteomanferdini.com/the-ultimate-course-to-making-professional-ios-apps-lesson-2-handling-data-and-business-logic-through-model-types-and-model-controllers/
